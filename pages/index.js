@@ -12,9 +12,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          rofi.io
-        </h1>
+        <img src="./images/under-construction.png" width={400}/>
+        <br />
+        <br />
+        <br />
+        <h4 className={styles.title}>
+          WEBSITE UNDER CONSTRUCTION
+        </h4>
       </main>
 
       {/* <footer className={styles.footer}>
