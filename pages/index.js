@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="./images/under-construction.png" width={400}/>
+        <img src="./img/under-construction.png" width={400}/>
         <br />
         <br />
         <br />
