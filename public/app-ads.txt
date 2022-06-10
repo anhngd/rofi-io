@@ -83,3 +83,4 @@ liftoff.io, 7f6945815e6, RESELLER
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 telaria.com, rwd19-3605102, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-3605102, RESELLER, 1a4e959a1b50034a
+applovin.com, 0bf341fc8841b89bbac1ac7d86b4f58a, DIRECT
